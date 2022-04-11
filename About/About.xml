@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Expanded Materials Metals Lite Patch for Outposts Mines</name>
+	<author>Daria40K</author>
+	<description>[LITE]Expanded Materials - Metals Patch for Vanilla Outposts Expanded Mines
+
+This patch add the ores from [LITE]Expanded Materials - Metals to Vanilla Outposts Expanded so that they can be an output for the outposts mines.
+	</description>
+	<packageId>Daria40K.ExpandedMaterialsMetalsLitePatchOutposts</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>vanillaexpanded.outposts</packageId>
+			<displayName>Vanilla Outposts Expanded</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2688941031</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>argon.lvmeu</packageId>
+			<displayName>[LITE]Expanded Materials - Metals</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2434786884</steamWorkshopUrl>
+		</li> 
+	</modDependencies>
+</ModMetaData>
